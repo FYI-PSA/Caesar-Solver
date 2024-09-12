@@ -5,7 +5,7 @@
 
 def main():
     print('''
-    [!] Ceasar Solver by FYI-PSA
+    [!] Caesar Solver by FYI-PSA
     [-] version 1.0
 
     ''')
